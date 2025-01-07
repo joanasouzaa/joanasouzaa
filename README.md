@@ -1,8 +1,8 @@
 
 ## Olá, eu sou a Joana Amorim! 👋
-Estudante de Análise e Desenvolvimento de Sistemas e futura desenvolvedora front-end.
+Estudante de Análise e Desenvolvimento de Sistemas e atualmente estudo para me tornar uma desenvolvedora full-stack.
 
-### Tecnologias que uso no meu dia a dia 👩‍💻
+### Tecnologias que estudo no meu dia a dia 👩‍💻
 
 <div style="display: inline-block">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
