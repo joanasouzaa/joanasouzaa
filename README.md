@@ -15,7 +15,7 @@ I'm a tech student learning Front-End Development and QA.
 ### GitHub Stats ⭐
 ![Joana GitHub stats](https://github-readme-stats.vercel.app/api?username=joanasouzaa&hide=contribs,prs&theme=dracula)
 
-#### Entre em contato comigo 🤝
+#### Contact me 🤝
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/joana-amorim-de-souza/)
