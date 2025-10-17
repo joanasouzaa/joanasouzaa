@@ -1,14 +1,14 @@
 
-## Olá, eu sou a Joana Amorim! 👋
-Estudante de Análise e Desenvolvimento de Sistemas e atualmente estudo para me tornar uma desenvolvedora front-end.
+## Hi, I'm Joana! 👋
+I'm a tech student learning Front-End Development and QA.
 
-### Tecnologias que estudo no meu dia a dia 👩‍💻
+### Technologies
 
 <div style="display: inline-block">
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
